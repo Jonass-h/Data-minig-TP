@@ -1,5 +1,5 @@
 # Data mining TP :
-Classification problem with come methods.
+Classification problem with some methods.
 Deep Neural Network are used in another repos.
 __________________________________________________
 ## part 1 :  supervised learning
